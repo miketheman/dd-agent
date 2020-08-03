@@ -6,7 +6,7 @@ ntplib==0.3.2
 pg8000==1.9.6
 PyMySQL==0.6.1
 python-memcached==1.53
-pyyaml==3.11
+pyyaml==5.1
 redis==2.10.1
 requests==2.3.0
 simplejson==3.3.3
